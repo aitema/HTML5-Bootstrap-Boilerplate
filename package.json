@@ -1,0 +1,30 @@
+{
+  "name": "HTML5-Bootstrap-Boilerplate",
+  "version": "0.0.0",
+  "description": "Develop your dreams with HTML5 responsive boilerplate template and grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aitema/HTML5-Bootstrap-Boilerplate.git"
+  },
+  "keywords": [
+    "HTML5",
+    "boilerplate",
+    "responsive",
+    "grunt",
+    "bootstrap"
+  ],
+  "author": "Andrea Seves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aitema/HTML5-Bootstrap-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/aitema/HTML5-Bootstrap-Boilerplate",
+  "devDependencies": {
+    "express": "^4.10.4",
+    "time-grunt": "^1.0.0"
+  }
+}

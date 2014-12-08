@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrea Seves -- Web Developer -- https://twitter.com/andreaseves
 
 # THANKS
 
-    <name>
+    Aitema S.r.l.
+    Jonathan Verrecchia -- https://twitter.com/verekia
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Grunt, Bootstrap
